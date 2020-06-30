@@ -1,3 +1,3 @@
 git add -A
-git commit -m "first build"
+git commit -m "replaced web folder"
 git push
