@@ -1,0 +1,15 @@
+v0.1.0 beta e20724d..cfc1ad3
+v0.1.1 beta cfc1ad3..8476af4
+v0.1.1 fixed spelling e3703aa..ca3811f
+v0.1.1 added twitter card infromation and changed the landing page text c90ba4e..698235a
+v0.1.2 changed langing page to allow nav to store with click of photo 8a997ef..164f20f
+v0.1.2 changed landing page and footer shirt location  8eae83e..7029ae5
+v0.1.3 changed call to action and removed offer for home page
+v0.1.3 added owa tracking to index.html for store and wpa 0a8c1fa..f572e49
+v0.1.4 added sitemap
+v0.1.5 added legal policys
+v0.1.6 added domain to action tracking 418e98c..2342cc3 
+v0.1.7 add pinterest domain ver on html 87322c8..e30fa03 
+"v0.2.0 added three products Class of 2020, Open America Now, Stay Inside cba2d16..7e3e159" 
+"v0.2.1 call to action now brings to store catogory  7e3e159..78d5e8a " 
+v0.2.2 re-wrote home and landing pages 2437a10..3cd7ed0 
